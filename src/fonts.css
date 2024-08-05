@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "KLATHY Blur";
+  src: url("/fonts/KLATHY Blur.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.font-klathy-blur {
+  font-family: "KLATHY Blur", sans-serif;
+}
+
+.font-gridlink {
+    font-family: 'gridlink', sans-serif;
+  }

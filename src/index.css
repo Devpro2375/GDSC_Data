@@ -1,0 +1,69 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Snowburst+One&display=swap");
+
+.rainbow-text {
+  font-family: "Snowburst One", cursive;
+  font-size: 7xl; /* Adjust size if needed */
+  animation: rainbow-animation 1ms infinite linear;
+  background: linear-gradient(
+    90deg,
+    rgb(131, 131, 255),
+    rgb(204, 133, 255),
+    rgb(255, 147, 255)
+  );
+
+  -webkit-text-fill-color: transparent;
+}
+
+@keyframes rainbow-animation {
+  0% {
+    background-position: 0%;
+  }
+  100% {
+    background-position: 100%;
+  }
+}
+
+.font-klathy-blur {
+  font-family: "KLATHY Blur", sans-serif;
+  font-weight: 300;
+  color: rgb(255, 170, 137);
+}
+
+.font-gridlink {
+  font-family: "gridlink", sans-serif;
+  color: rgb(163, 163, 163);
+}
+
+/* styles.css */
+.data-table-container {
+  background: #1e1e2f; /* Dark background for the container */
+  border-radius: 0.5rem; /* Rounded corners */
+  padding: 1rem; /* Padding around the table */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Shadow for depth */
+}
+
+.data-table-container .rdt_Table {
+  background: #12141f; /* Dark background for the table */
+  color: #e0e0e0; /* Light text color for the table */
+}
+
+.data-table-container .rdt_TableBody .rdt_TableRow:nth-child(even) {
+  background: #1a1a2e; /* Slightly lighter background for alternate rows */
+}
+
+.data-table-container .rdt_TableBody .rdt_TableRow:nth-child(odd) {
+  background: #12141f; /* Background for odd rows */
+}
+
+.data-table-container .rdt_TableBody .rdt_TableCell {
+  color: #e0e0e0; /* Light gray text color for cells */
+  border-bottom: 1px solid #2c2c2c; /* Subtle border between cells */
+}
+
+.data-table-container .rdt_TablePagination {
+  color: #e0e0e0; /* Light color for pagination controls */
+}
