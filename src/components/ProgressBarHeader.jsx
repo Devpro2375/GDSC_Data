@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 // Import React and styled-components
 
-import styled from 'styled-components';
+import styled from "styled-components";
 
 // Define styled components
 const Container = styled.div`
@@ -12,7 +12,7 @@ const Container = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-family: 'Arial', sans-serif;
+  font-family: "Arial", sans-serif;
   padding: 1rem; /* Add padding for mobile devices */
 
   @media (max-width: 768px) {
@@ -72,17 +72,17 @@ const Emoji = styled.span`
   }
 `;
 
-
-
 // Main component
 const StudyJamComponent = ({ dataLength }) => {
   return (
     <Container>
       <Subtitle>GDSC</Subtitle>
-      <Title>SSGMCE, Shegaon</Title>
-      <Title><Highlight>GEN AI STUDY JAMS</Highlight></Title>
+
+      <Title>
+        <Highlight>GOOGLE CLOUD ARCADE FACILITATOR PROGRAM</Highlight>
+      </Title>
       <Badge>
-        <Highlight>GEN AI Graduates</Highlight> {dataLength} <Emoji>🎉</Emoji>
+        <Highlight>ARCADE GRADUATES</Highlight> {dataLength} <Emoji>🎉</Emoji>
       </Badge>
     </Container>
   );

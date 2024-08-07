@@ -15,20 +15,25 @@ const Loader = () => {
           display: flex;
           justify-content: center;
           align-items: center;
-          background: rgba(0, 0, 0, 0.5);
+          background: rgba(0, 0, 0, 0.6); /* Slightly darker for better visibility */
           z-index: 1000;
         }
         .loader {
-          border: 16px solid #f3f3f3;
-          border-top: 16px solid #3498db;
+          width: 80px;
+          height: 80px;
+          border: 8px solid rgba(255, 255, 255, 0.3); /* Light color with opacity */
+          border-top: 8px solid #3498db; /* Bright color */
           border-radius: 50%;
-          width: 120px;
-          height: 120px;
-          animation: spin 2s linear infinite;
+          animation: spin 1.2s linear infinite, pulse 1.5s ease-in-out infinite;
         }
         @keyframes spin {
           0% { transform: rotate(0deg); }
           100% { transform: rotate(360deg); }
+        }
+        @keyframes pulse {
+          0% { transform: scale(1); opacity: 1; }
+          50% { transform: scale(1.1); opacity: 0.7; }
+          100% { transform: scale(1); opacity: 1; }
         }
       `}</style>
     </div>
