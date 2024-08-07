@@ -38,7 +38,7 @@ const Home = () => {
         <div className="mt-10 md:mt-40 flex items-center text-lg md:text-2xl uppercase justify-center w-full">
           <button
             onClick={handleClick}
-            className="px-4 py-2 md:px-5 md:py-3 bg-[#2f0a53] hover:bg-[#2c0f28] duration-300 rounded-md text-[#d4caca] font-bold text-sm md:text-base"
+            className="px-4 py-2 md:px-5 md:py-3  bg-[#3b48ff] hover:bg-[#3431ce] duration-300 rounded-md text-[#d4caca] font-bold text-sm md:text-base"
           >
             Progress Board
           </button>
