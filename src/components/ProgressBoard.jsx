@@ -667,13 +667,15 @@ const ProgressBoard = () => {
       "Profile URL Status": "All Good",
       "Access Code Redemption Status": "Yes",
       "Milestone Earned": "None",
-      "# of Skill Badges Completed": 0,
-      "Names of Completed Skill Badges": "",
+      "# of Skill Badges Completed": 2,
+      "Names of Completed Skill Badges":
+        "Manage Kubernetes in Google Cloud [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge]",
       "# of Arcade Games Completed": 1,
       "Names of Completed Arcade Games":
         "Level 1: Application Development and Deployment [Game]",
-      "# of Trivia Games Completed": 0,
-      "Names of Completed Trivia Games": "",
+      "# of Trivia Games Completed": 1,
+      "Names of Completed Trivia Games":
+        "The Arcade Trivia August 2024 Week 1 [Trivia]",
     },
     {
       "User Name": "Mohan Sunil Gawande",
@@ -1260,8 +1262,7 @@ const ProgressBoard = () => {
       "Names of Completed Skill Badges":
         "Analyze BigQuery Data in Connected Sheets [Skill Badge]",
       "# of Arcade Games Completed": 1,
-      "Names of Completed Arcade Games":
-        "The Arcade Base Camp August 2024 [Game]",
+      "Names of Completed Arcade Games": "NaN",
       "# of Trivia Games Completed": 0,
       "Names of Completed Trivia Games": "",
     },
@@ -2278,7 +2279,6 @@ const ProgressBoard = () => {
       "Names of Completed Trivia Games": "",
     },
   ];
-
   const dataLength = data.length;
   console.log(dataLength);
 
