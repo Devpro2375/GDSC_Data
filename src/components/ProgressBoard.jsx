@@ -73,7 +73,7 @@ const ProgressBoard = () => {
 
   const data = [
     {
-      "User Name": "Abhishek  Adhalkar",
+      "User Name": "Abhishek Adhalkar",
       "User Email": "adhalkarabhishek1@gmail.com",
       "Google Cloud Skills Boost Profile URL":
         "https://www.cloudskillsboost.google/public_profiles/5394702a-e58a-4c35-b6e6-51a5c04ea970",
@@ -456,9 +456,9 @@ const ProgressBoard = () => {
       "Profile URL Status": "All Good",
       "Access Code Redemption Status": "Yes",
       "Milestone Earned": "None",
-      "# of Skill Badges Completed": "27",
+      "# of Skill Badges Completed": "29",
       "Names of Completed Skill Badges":
-        "Use Functions, Formulas, and Charts in Google Sheets [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Automate Data Capture at Scale with Document AI [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Share Data Using Google Data Cloud [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | App Building with AppSheet [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Prepare Data for Looker Dashboards and Reports [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",
+        "Use Functions, Formulas, and Charts in Google Sheets [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Tag and Discover BigLake Data [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Secure BigLake Data [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Automate Data Capture at Scale with Document AI [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Share Data Using Google Data Cloud [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | App Building with AppSheet [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Prepare Data for Looker Dashboards and Reports [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",
       "# of Arcade Games Completed": "1",
       "Names of Completed Arcade Games":
         "The Arcade Base Camp August 2024 [Game]",
@@ -2287,7 +2287,6 @@ const ProgressBoard = () => {
       "Names of Completed Trivia Games": "",
     },
   ];
-
   const dataLength = data.length;
   console.log(dataLength);
 
