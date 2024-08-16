@@ -160,8 +160,9 @@ const ProgressBoard = () => {
       "# of Skill Badges Completed": "3",
       "Names of Completed Skill Badges":
         "Monitor Environments with Google Cloud Managed Service for Prometheus [Skill Badge] | Monitor and Log with Google Cloud Observability [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge]",
-      "# of Arcade Games Completed": "0",
-      "Names of Completed Arcade Games": "",
+      "# of Arcade Games Completed": "1",
+      "Names of Completed Arcade Games":
+        "The Arcade Base Camp August 2024 [Game]",
       "# of Trivia Games Completed": "0",
       "Names of Completed Trivia Games": "",
     },
@@ -519,15 +520,15 @@ const ProgressBoard = () => {
       "Profile URL Status": "All Good",
       "Access Code Redemption Status": "Yes",
       "Milestone Earned": "None",
-      "# of Skill Badges Completed": "12",
+      "# of Skill Badges Completed": "13",
       "Names of Completed Skill Badges":
-        "Get Started with Pub/Sub [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Create a Secure Data Lake on Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Build Real World AI Applications with Gemini and Imagen [Skill Badge]",
+        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Create a Secure Data Lake on Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Build Real World AI Applications with Gemini and Imagen [Skill Badge]",
       "# of Arcade Games Completed": "1",
       "Names of Completed Arcade Games":
         "Level 3: Google Cloud Functions [Game]",
-      "# of Trivia Games Completed": "1",
+      "# of Trivia Games Completed": "2",
       "Names of Completed Trivia Games":
-        "The Arcade Trivia August 2024 Week 1 [Trivia]",
+        "The Arcade Trivia August 2024 Week 1 [Trivia] | The Arcade Trivia August 2024 Week 2 [Trivia]",
     },
     {
       "User Name": "Amardeepsingh Chavan",
@@ -2142,7 +2143,7 @@ const ProgressBoard = () => {
       "Google Cloud Skills Boost Profile URL":
         "https://www.cloudskillsboost.google/public_profiles/689eccba-fca9-4b28-b97c-4c915b6171a6",
       "Profile URL Status": "All Good",
-      "Access Code Redemption Status": "No",
+      "Access Code Redemption Status": "Yes",
       "Milestone Earned": "None",
       "# of Skill Badges Completed": "0",
       "Names of Completed Skill Badges": "",
