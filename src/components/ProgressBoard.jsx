@@ -996,8 +996,9 @@ const ProgressBoard = () => {
       "# of Skill Badges Completed": "1",
       "Names of Completed Skill Badges":
         "The Basics of Google Cloud Compute [Skill Badge]",
-      "# of Arcade Games Completed": "0",
-      "Names of Completed Arcade Games": "",
+      "# of Arcade Games Completed": "1",
+      "Names of Completed Arcade Games":
+        "The Arcade Base Camp August 2024 [Game]",
       "# of Trivia Games Completed": "2",
       "Names of Completed Trivia Games":
         "The Arcade Trivia August 2024 Week 1 [Trivia] | The Arcade Trivia August 2024 Week 2 [Trivia]",
@@ -1255,9 +1256,11 @@ const ProgressBoard = () => {
       "Names of Completed Skill Badges":
         "Analyze BigQuery Data in Connected Sheets [Skill Badge]",
       "# of Arcade Games Completed": "4",
-      "Names of Completed Arcade Games": "NaN",
+      "Names of Completed Arcade Games":
+        "The Arcade Base Camp August 2024 [Game] | Level 1: Application Development and Deployment [Game] | Level 2: Machine Learning and AI Skills [Game] | Level 3: Google Cloud Functions [Game]",
       "# of Trivia Games Completed": "1",
-      "Names of Completed Trivia Games": "NaN",
+      "Names of Completed Trivia Games":
+        "The Arcade Trivia August 2024 Week 1 [Trivia]",
     },
     {
       "User Name": "Sagar Palhade",
@@ -1347,7 +1350,8 @@ const ProgressBoard = () => {
       "# of Arcade Games Completed": "0",
       "Names of Completed Arcade Games": "",
       "# of Trivia Games Completed": "1",
-      "Names of Completed Trivia Games": "NaN",
+      "Names of Completed Trivia Games":
+        "The Arcade Trivia August 2024 Week 1 [Trivia]",
     },
     {
       "User Name": "Muhammad Khan",
@@ -1363,7 +1367,8 @@ const ProgressBoard = () => {
       "# of Arcade Games Completed": "0",
       "Names of Completed Arcade Games": "",
       "# of Trivia Games Completed": "1",
-      "Names of Completed Trivia Games": "NaN",
+      "Names of Completed Trivia Games":
+        "The Arcade Trivia August 2024 Week 1 [Trivia]",
     },
     {
       "User Name": "Ayush Moon",
@@ -1483,7 +1488,8 @@ const ProgressBoard = () => {
       "Names of Completed Skill Badges":
         "Manage Kubernetes in Google Cloud [Skill Badge] | Monitor Environments with Google Cloud Managed Service for Prometheus [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge]",
       "# of Arcade Games Completed": "1",
-      "Names of Completed Arcade Games": "NaN",
+      "Names of Completed Arcade Games":
+        "The Arcade Base Camp August 2024 [Game]",
       "# of Trivia Games Completed": "0",
       "Names of Completed Trivia Games": "",
     },
