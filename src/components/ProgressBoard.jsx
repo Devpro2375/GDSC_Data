@@ -71,7 +71,7 @@ const ProgressBoard = () => {
     },
   ];
 
-  const data = [
+  const data =[
     {
         "User Name": "Abhishek Adhalkar",
         "User Email": "adhalkarabhishek1@gmail.com",
@@ -153,8 +153,8 @@ const ProgressBoard = () => {
         "Names of Completed Skill Badges": "Monitor Environments with Google Cloud Managed Service for Prometheus [Skill Badge] | Monitor and Log with Google Cloud Observability [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge]",
         "# of Arcade Games Completed": "4",
         "Names of Completed Arcade Games": "The Arcade Base Camp August 2024 [Game] | Level 1: Application Development and Deployment [Game] | Level 2: Machine Learning and AI Skills [Game] | Level 3: Google Cloud Functions [Game]",
-        "# of Trivia Games Completed": "0",
-        "Names of Completed Trivia Games": ""
+        "# of Trivia Games Completed": "4",
+        "Names of Completed Trivia Games": "The Arcade Trivia August 2024 Week 1 [Trivia] | The Arcade Trivia August 2024 Week 2 [Trivia] | The Arcade Trivia August 2024 Week 3 [Trivia] | The Arcade Trivia August 2024 Week 4 [Trivia]"
     },
     {
         "User Name": "Gaurav Ghatol",
@@ -204,13 +204,13 @@ const ProgressBoard = () => {
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/a98ea6f9-d840-4d16-8aef-de37c0b67260",
         "Profile URL Status": "All Good",
         "Access Code Redemption Status": "Yes",
-        "Milestone Earned": "Milestone 1",
+        "Milestone Earned": "Milestone 2",
         "# of Skill Badges Completed": "35",
         "Names of Completed Skill Badges": "Prompt Design in Vertex AI [Skill Badge] | Use Functions, Formulas, and Charts in Google Sheets [Skill Badge] | Using the Google Cloud Speech API [Skill Badge] | Use APIs to Work with Cloud Storage [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Tag and Discover BigLake Data [Skill Badge] | Secure BigLake Data [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Create a Streaming Data Lake on Cloud Storage [Skill Badge] | Create a Secure Data Lake on Cloud Storage [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Analyze Sentiment with Natural Language API [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | App Building with AppSheet [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Analyze BigQuery Data in Connected Sheets [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge] | Build Real World AI Applications with Gemini and Imagen [Skill Badge]",
         "# of Arcade Games Completed": "4",
         "Names of Completed Arcade Games": "The Arcade Base Camp August 2024 [Game] | Level 1: Application Development and Deployment [Game] | Level 2: Machine Learning and AI Skills [Game] | Level 3: Google Cloud Functions [Game]",
-        "# of Trivia Games Completed": "3",
-        "Names of Completed Trivia Games": "The Arcade Trivia August 2024 Week 1 [Trivia] | The Arcade Trivia August 2024 Week 2 [Trivia] | The Arcade Trivia August 2024 Week 3 [Trivia]"
+        "# of Trivia Games Completed": "5",
+        "Names of Completed Trivia Games": "The Arcade Trivia August 2024 Week 1 [Trivia] | The Arcade Trivia August 2024 Week 2 [Trivia] | The Arcade Trivia August 2024 Week 3 [Trivia] | The Arcade Trivia August 2024 Week 4 [Trivia] | The Arcade Trivia September 2024 Week 1 [Trivia]"
     },
     {
         "User Name": "Aditya@040204",
@@ -414,13 +414,13 @@ const ProgressBoard = () => {
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/33e6484e-7613-4964-bf59-7fa38a4e2484",
         "Profile URL Status": "All Good",
         "Access Code Redemption Status": "Yes",
-        "Milestone Earned": "Milestone 1",
-        "# of Skill Badges Completed": "30",
-        "Names of Completed Skill Badges": "Use Functions, Formulas, and Charts in Google Sheets [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Tag and Discover BigLake Data [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Secure BigLake Data [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Automate Data Capture at Scale with Document AI [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Share Data Using Google Data Cloud [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | App Building with AppSheet [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Prepare Data for Looker Dashboards and Reports [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge] | Build Real World AI Applications with Gemini and Imagen [Skill Badge]",
-        "# of Arcade Games Completed": "2",
-        "Names of Completed Arcade Games": "The Arcade Base Camp August 2024 [Game] | Level 1: Application Development and Deployment [Game]",
-        "# of Trivia Games Completed": "3",
-        "Names of Completed Trivia Games": "The Arcade Trivia August 2024 Week 1 [Trivia] | The Arcade Trivia August 2024 Week 2 [Trivia] | The Arcade Trivia August 2024 Week 3 [Trivia]"
+        "Milestone Earned": "Milestone 2",
+        "# of Skill Badges Completed": "31",
+        "Names of Completed Skill Badges": "Use Functions, Formulas, and Charts in Google Sheets [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Tag and Discover BigLake Data [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Secure BigLake Data [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Automate Data Capture at Scale with Document AI [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Share Data Using Google Data Cloud [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Implement Cloud Security Fundamentals on Google Cloud [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | App Building with AppSheet [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Prepare Data for Looker Dashboards and Reports [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge] | Build Real World AI Applications with Gemini and Imagen [Skill Badge]",
+        "# of Arcade Games Completed": "4",
+        "Names of Completed Arcade Games": "The Arcade Base Camp August 2024 [Game] | Level 1: Application Development and Deployment [Game] | Level 2: Machine Learning and AI Skills [Game] | Level 3: Google Cloud Functions [Game]",
+        "# of Trivia Games Completed": "4",
+        "Names of Completed Trivia Games": "The Arcade Trivia August 2024 Week 1 [Trivia] | The Arcade Trivia August 2024 Week 2 [Trivia] | The Arcade Trivia August 2024 Week 3 [Trivia] | The Arcade Trivia August 2024 Week 4 [Trivia]"
     },
     {
         "User Name": "Fatima Zaki",
@@ -485,8 +485,8 @@ const ProgressBoard = () => {
         "Profile URL Status": "All Good",
         "Access Code Redemption Status": "Yes",
         "Milestone Earned": "None",
-        "# of Skill Badges Completed": "10",
-        "Names of Completed Skill Badges": "Streaming Analytics into BigQuery [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge]",
+        "# of Skill Badges Completed": "12",
+        "Names of Completed Skill Badges": "Streaming Analytics into BigQuery [Skill Badge] | Secure BigLake Data [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge]",
         "# of Arcade Games Completed": "0",
         "Names of Completed Arcade Games": "",
         "# of Trivia Games Completed": "0",
@@ -610,13 +610,13 @@ const ProgressBoard = () => {
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/96883106-ca94-433f-bbaa-a432f17fa1c7",
         "Profile URL Status": "All Good",
         "Access Code Redemption Status": "Yes",
-        "Milestone Earned": "None",
+        "Milestone Earned": "Milestone 1",
         "# of Skill Badges Completed": "8",
         "Names of Completed Skill Badges": "Manage Kubernetes in Google Cloud [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Get Started with Looker [Skill Badge] | Analyze BigQuery Data in Connected Sheets [Skill Badge]",
-        "# of Arcade Games Completed": "1",
-        "Names of Completed Arcade Games": "Level 1: Application Development and Deployment [Game]",
-        "# of Trivia Games Completed": "1",
-        "Names of Completed Trivia Games": "The Arcade Trivia August 2024 Week 1 [Trivia]"
+        "# of Arcade Games Completed": "2",
+        "Names of Completed Arcade Games": "Level 1: Application Development and Deployment [Game] | Level 2: Machine Learning and AI Skills [Game]",
+        "# of Trivia Games Completed": "4",
+        "Names of Completed Trivia Games": "The Arcade Trivia August 2024 Week 1 [Trivia] | The Arcade Trivia August 2024 Week 2 [Trivia] | The Arcade Trivia August 2024 Week 3 [Trivia] | The Arcade Trivia August 2024 Week 4 [Trivia]"
     },
     {
         "User Name": "Mohan Gawande",
@@ -905,12 +905,12 @@ const ProgressBoard = () => {
         "Profile URL Status": "All Good",
         "Access Code Redemption Status": "Yes",
         "Milestone Earned": "None",
-        "# of Skill Badges Completed": "1",
-        "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge]",
+        "# of Skill Badges Completed": "2",
+        "Names of Completed Skill Badges": "Manage Kubernetes in Google Cloud [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge]",
         "# of Arcade Games Completed": "2",
         "Names of Completed Arcade Games": "The Arcade Base Camp August 2024 [Game] | Level 1: Application Development and Deployment [Game]",
-        "# of Trivia Games Completed": "3",
-        "Names of Completed Trivia Games": "The Arcade Trivia August 2024 Week 1 [Trivia] | The Arcade Trivia August 2024 Week 2 [Trivia] | The Arcade Trivia August 2024 Week 3 [Trivia]"
+        "# of Trivia Games Completed": "4",
+        "Names of Completed Trivia Games": "The Arcade Trivia August 2024 Week 1 [Trivia] | The Arcade Trivia August 2024 Week 2 [Trivia] | The Arcade Trivia August 2024 Week 3 [Trivia] | The Arcade Trivia August 2024 Week 4 [Trivia]"
     },
     {
         "User Name": "SHIVRAJ VIJEKAR",
@@ -1147,8 +1147,8 @@ const ProgressBoard = () => {
         "Names of Completed Skill Badges": "Analyze BigQuery Data in Connected Sheets [Skill Badge]",
         "# of Arcade Games Completed": "4",
         "Names of Completed Arcade Games": "The Arcade Base Camp August 2024 [Game] | Level 1: Application Development and Deployment [Game] | Level 2: Machine Learning and AI Skills [Game] | Level 3: Google Cloud Functions [Game]",
-        "# of Trivia Games Completed": "3",
-        "Names of Completed Trivia Games": "The Arcade Trivia August 2024 Week 1 [Trivia] | The Arcade Trivia August 2024 Week 2 [Trivia] | The Arcade Trivia August 2024 Week 3 [Trivia]"
+        "# of Trivia Games Completed": "5",
+        "Names of Completed Trivia Games": "The Arcade Trivia August 2024 Week 1 [Trivia] | The Arcade Trivia August 2024 Week 2 [Trivia] | The Arcade Trivia August 2024 Week 3 [Trivia] | The Arcade Trivia August 2024 Week 4 [Trivia] | The Arcade Trivia September 2024 Week 1 [Trivia]"
     },
     {
         "User Name": "Sagar Palhade",
@@ -1483,8 +1483,8 @@ const ProgressBoard = () => {
         "Names of Completed Skill Badges": "",
         "# of Arcade Games Completed": "0",
         "Names of Completed Arcade Games": "",
-        "# of Trivia Games Completed": "0",
-        "Names of Completed Trivia Games": ""
+        "# of Trivia Games Completed": "1",
+        "Names of Completed Trivia Games": "The Arcade Trivia August 2024 Week 1 [Trivia]"
     },
     {
         "User Name": "Tanuja Gadam",
@@ -1735,8 +1735,8 @@ const ProgressBoard = () => {
         "Names of Completed Skill Badges": "",
         "# of Arcade Games Completed": "0",
         "Names of Completed Arcade Games": "",
-        "# of Trivia Games Completed": "0",
-        "Names of Completed Trivia Games": ""
+        "# of Trivia Games Completed": "2",
+        "Names of Completed Trivia Games": "The Arcade Trivia August 2024 Week 1 [Trivia] | The Arcade Trivia August 2024 Week 2 [Trivia]"
     },
     {
         "User Name": "Vaishnavi Wankhede",
@@ -1749,8 +1749,8 @@ const ProgressBoard = () => {
         "Names of Completed Skill Badges": "",
         "# of Arcade Games Completed": "0",
         "Names of Completed Arcade Games": "",
-        "# of Trivia Games Completed": "0",
-        "Names of Completed Trivia Games": ""
+        "# of Trivia Games Completed": "2",
+        "Names of Completed Trivia Games": "The Arcade Trivia August 2024 Week 1 [Trivia] | The Arcade Trivia August 2024 Week 2 [Trivia]"
     },
     {
         "User Name": "Saurabh Wankhede",
@@ -1763,8 +1763,8 @@ const ProgressBoard = () => {
         "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge]",
         "# of Arcade Games Completed": "0",
         "Names of Completed Arcade Games": "",
-        "# of Trivia Games Completed": "0",
-        "Names of Completed Trivia Games": ""
+        "# of Trivia Games Completed": "2",
+        "Names of Completed Trivia Games": "The Arcade Trivia August 2024 Week 1 [Trivia] | The Arcade Trivia August 2024 Week 2 [Trivia]"
     },
     {
         "User Name": "Aishwarya Wankhede",
@@ -1777,8 +1777,8 @@ const ProgressBoard = () => {
         "Names of Completed Skill Badges": "",
         "# of Arcade Games Completed": "0",
         "Names of Completed Arcade Games": "",
-        "# of Trivia Games Completed": "0",
-        "Names of Completed Trivia Games": ""
+        "# of Trivia Games Completed": "2",
+        "Names of Completed Trivia Games": "The Arcade Trivia August 2024 Week 1 [Trivia] | The Arcade Trivia August 2024 Week 2 [Trivia]"
     },
     {
         "User Name": "Aditya Tak",
@@ -1943,10 +1943,10 @@ const ProgressBoard = () => {
         "Milestone Earned": "None",
         "# of Skill Badges Completed": "0",
         "Names of Completed Skill Badges": "",
-        "# of Arcade Games Completed": "0",
-        "Names of Completed Arcade Games": "",
-        "# of Trivia Games Completed": "0",
-        "Names of Completed Trivia Games": ""
+        "# of Arcade Games Completed": "2",
+        "Names of Completed Arcade Games": "The Arcade Base Camp August 2024 [Game] | Level 1: Application Development and Deployment [Game]",
+        "# of Trivia Games Completed": "1",
+        "Names of Completed Trivia Games": "The Arcade Trivia September 2024 Week 1 [Trivia]"
     },
     {
         "User Name": "Amol Gawade",
